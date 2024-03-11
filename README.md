@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillGAndre&repo=cworks&theme=slateorange)](https://github.com/WillGAndre/cworks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillGAndre&repo=SR_ASS2&theme=slateorange)](https://github.com/WillGAndre/SR_ASS2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillGAndre&repo=cysec-writeups&theme=slateorange)](https://github.com/WillGAndre/cysec-writeups)
 
