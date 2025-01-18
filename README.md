@@ -1,7 +1,7 @@
-### .[⎇](https://willgandre.github.io/) 
-### |-- [explo/](https://github.com/WillGAndre/explo)
-### `-- [gitrojan](https://github.com/WillGAndre/explo/tree/main/gitrojan)
-### `-- [cups-browsed_2.0.1](https://github.com/WillGAndre/explo/tree/main/cups-browsed_2.0.1)
+### . [⎇](https://willgandre.github.io/) 
+└── [gitrojan](https://github.com/WillGAndre/explo/tree/main/gitrojan)
+<br>
+└── [cups-browsed_2.0.1](https://github.com/WillGAndre/explo/tree/main/cups-browsed_2.0.1)
 <!--
 **WillGAndre/WillGAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
