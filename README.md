@@ -1,4 +1,4 @@
-### . [⎇](https://willgandre.github.io/) 
+### [⎇](https://willgandre.github.io/) 
 ### └── [gitrojan](https://github.com/WillGAndre/explo/tree/main/gitrojan)
 ### └── [cups-browsed_2.0.1](https://github.com/WillGAndre/explo/tree/main/cups-browsed_2.0.1)
 <!--
