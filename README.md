@@ -1,4 +1,5 @@
 ### [⎇](https://willgandre.github.io/) 
+### └── [llmsili](https://github.com/WillGAndre/explo/tree/main/llmsili)
 ### └── [gitrojan](https://github.com/WillGAndre/explo/tree/main/gitrojan)
 ### └── [cups-browsed_2.0.1](https://github.com/WillGAndre/explo/tree/main/cups-browsed_2.0.1)
 <!--
