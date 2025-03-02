@@ -1,7 +1,7 @@
 ### [⎇](https://willgandre.github.io/) 
-### └── [llmsili](https://github.com/WillGAndre/explo/tree/main/llmsili)
-### └── [gitrojan](https://github.com/WillGAndre/explo/tree/main/gitrojan)
-### └── [cups-browsed_2.0.1](https://github.com/WillGAndre/explo/tree/main/cups-browsed_2.0.1)
+### └── [llmsili](https://github.com/WillGAndre/explo/tree/main/llmsili) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LLM on Silicon (Darwin M1)
+### └── [gitrojan](https://github.com/WillGAndre/explo/tree/main/gitrojan) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remote module importing from a custom loader abstract base class
+### └── [cups-browsed_2.0.1](https://github.com/WillGAndre/explo/tree/main/cups-browsed_2.0.1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CVE-2024-47176
 <!--
 **WillGAndre/WillGAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
